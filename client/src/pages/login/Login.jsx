@@ -10,7 +10,7 @@ const Login = () => {
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Repellendus, nesciunt exercitationem at officiis
                         deserunt temporibus tempora fuga dignissimos labore
-                        vero?
+                        vero.
                     </p>
                     <span>Don't have account?</span>
                     <button>Register</button>
